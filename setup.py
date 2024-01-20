@@ -11,7 +11,7 @@ classifiers = [
 setup(
     name='simple_string_lib',
     packages=find_packages(include=['simple_string_lib']),
-    long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+    long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.md').read(),
     version='0.1.0',
     description='A simple library for comparing strings.',
     license='MIT',
