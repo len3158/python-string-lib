@@ -1,0 +1,17 @@
+[project]
+name = "simple_string_lib"
+version = "0.0.1"
+authors = [
+  { name="Lenny Siemeni", email="len3158@gmail.com" },
+]
+description = "A simple string version library"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/len3158/python-string-lib"
